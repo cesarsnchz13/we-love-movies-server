@@ -23,7 +23,3 @@ This project implemented knowledge of the following concepts:
   <li>PostgreSQL</li>
   <li>Heroku</li>
 </ul>
-
-## Demo
-
-See deployed app: https://we-love-movies-55969.herokuapp.com/
